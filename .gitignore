@@ -10,7 +10,6 @@ Thumbs.db
 
 # Node / frontend
 node_modules/
-package-lock.json
 pnpm-lock.yaml
 yarn.lock
 npm-debug.log*
